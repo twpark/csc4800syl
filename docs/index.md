@@ -1,10 +1,10 @@
-**Welcome to CSC 3220 Applications Programming Winter 2019!**
+**Welcome to CSC 4800 Applications Programming Winter 2019!**
 
 Use the navigation and search features to find necessary information.
 
 
 # Times and Locations
-* **Meeting Times**: Tu/Th 9:30am – 11:00am in Otto Miller Hall (OMH) 244
+* **Meeting Times**: Th 3:00pm – 4:30pm in Otto Miller Hall (OMH) 225
 * **No Mid-term / Final Exam**: Projects will be assigned
 
 

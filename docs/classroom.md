@@ -32,7 +32,7 @@ Earning 10 codes is equivalent to 5% of entire course credit and the points will
 
 After receiving a code, (hopefully immediately) submit it through the following link:
 
-* [bit.ly/CSC3220HONORS](http://bit.ly/CSC3220HONORS)
+* [bit.ly/CSC4800HONORS](http://bit.ly/CSC4800HONORS)
 
 
 # Classroom Policy Notes

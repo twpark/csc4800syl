@@ -13,9 +13,9 @@ Relevant?|#|Objective Description
  |5|Responsibility in meeting professional commitments
 \*|6|Ability to manage projects within multiple constraints and to meet multiple goals
  |7|Ability to successfully lead and work in teams with diverse membership
- |8|Effective oral and written communication of technical information using a variety of techniques
+\*|8|Effective oral and written communication of technical information using a variety of techniques
 \*|9|Awareness of the ethical and social impacts of technology, and the ability to take responsible action
- |10|Articulation of Christian perspectives on personal, societal, technical, or theological issues
+\*|10|Articulation of Christian perspectives on personal, societal, technical, or theological issues
 \*|11|Preparation for continued learning in a rapidly changing discipline
  |12|Ability to locate, analyze and apply information on current events and new technologies obtained from a wide variety of sources and experiences
  
