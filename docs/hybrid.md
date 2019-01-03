@@ -1,6 +1,6 @@
 # Hybrid Class
 
-This class meets **one time a week in person, on Thursdays**. Class hours on Tuesdays will be repurposed for open office hours for labs and questions.
+This class employs a hybrid scheme between traditional and online. The class meets **one time a week in person, on Thursdays**. Class hours on Tuesdays will be repurposed for open office hours for labs and questions.
 
 **THAT MEANS, THE CLASS DOES NOT MEET ON TUESDAYS.**
 
