@@ -5,7 +5,7 @@ markdown_extensions:
   - footnotes
   - tables
 
-nav:
+pages:
   - Welcome: index.md
   - Instructor Information and Contact: contact.md
   - Overview: overview.md
