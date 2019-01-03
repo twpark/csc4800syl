@@ -19,7 +19,7 @@ The following procedures apply to all assignments (unless specifically directed 
 ### Technical Challenge and Late Submission
 Friendly Reminder: BE SURE TO ALWAYS BACK-UP YOUR WORK and store incremental copies in multiple places. Flash drives and personal laptops only fail just prior to the due date of programming assignments (or so it seems). The instructor is very unlikely to perceive a storage or system crash as adequate grounds for allowing an extension of a due date!
 
-## HCI Principles Project (Midterm/Final)
+## Projects (Midterm/Final)
 
 As you read the Spolsky text, you will be asked to describe, discuss, and/or create or copy examples of a number of HCI principles. Your collection of descriptions and samples will be handed in twice during the quarter. This will also be submitted via Canvas.
 * Part 1 – Friday, February 8 (10 pm)
@@ -47,9 +47,10 @@ Grades will be based on performance in three areas:
 
 Area | Portion
 ------|------
-C# Programming (labs, homework) | 55%
-HCI Principles Project | 30%
-Attendance, participation, in-class activities, quizzes	| 15%
+Labs | 30%
+Projects | 30%
+Online Discussion | 20%
+Participation	| 20%
 
 The grading scale is:
 
