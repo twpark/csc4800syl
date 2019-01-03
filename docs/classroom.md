@@ -1,16 +1,19 @@
 # Attendance Policy
 
 Your attendance will affect your grades directly. You have 30 points initially for the attendance.
+
 * If you miss a class **without a prior notice**, you will lose 10 points.
 * If you are late to the class **without a prior notice**, you will lose 7 points.
 * If your attendance point hits 0 or below, your final grade mark will be automatically E.
 
 Prior notices **should** include:
+
 * Reason why you cannot make the class or would be late **(Notices without an appropriate reason may not be counted)**
 * Ideas how you would like to make-up the class
 * Refer to [this form](https://spu.edu/depts/healthservices/documents/MedicalExcuseNotesPolicy.pdf) to report your being late or absence to your instructors respectfully.
 
 Prior notices will be counted **if and only if** delivered before the class begins using the following media:
+
 * Canvas message
 * Slack message
 * E-Mail
