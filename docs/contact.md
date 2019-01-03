@@ -17,7 +17,7 @@ Once you sign-up, you can use [sputwp.slack.com](http://sputwp.slack.com) to ope
 * Thursday: Closed
 * Friday: 11:30am-2pm
 
-You can stop by during these times to ask question without appointment. To schedule an appointments outside of O-OH, PM me on Slack.
+You can stop by during these times to ask question without appointment. To schedule an appointments outside of these hours, PM me on Slack.
 
 # Other contact methods
 * ***Snail*** **e-mail**: [twp@spu.edu](mailto:twp@spu.edu)

@@ -41,7 +41,7 @@ This course focuses on the HCI principles related to creating event-driven, GUI 
     * That guards against the most common user mistakes
 * *Build a Graphical User Interface (GUI)*
     * Identify several fundamental principles for effective GUI design
-    * Use a GUI toolkit (C# and Visual Studio) to create small GUI-based applications
+    * Use a GUI toolkit (Qt with C++ binding) to create small GUI-based applications
     * Illustrate the effect of fundamental design principles on the structure of a GUI
     * Illustrate the effect of "programming for humans" on the controls and layout of a GUI
 * *Use a graphics API and RGB color in user interface development*
