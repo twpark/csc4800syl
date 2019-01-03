@@ -14,7 +14,7 @@ Once you sign-up, you can use [sputwp.slack.com](http://sputwp.slack.com) to ope
 * Monday: 11:30am-2pm
 * Tuesday: 9-11am, 3-5pm
 * Wednesday: 11:30am-2pm
-* Thursday: Closed
+* Thursday: by appointment
 * Friday: 11:30am-2pm
 
 You can stop by during these times to ask question without appointment. To schedule an appointments outside of these hours, PM me on Slack.
