@@ -8,7 +8,7 @@ markdown_extensions:
 pages:
   - Welcome: index.md
   - Instructor Information and Contact: contact.md
-  - Overview: overview.md
+  - Course Description and Objectives: overview.md
   - Textbook, Media, Resources: textbook.md
   - Assignment and Grading Policies: grading.md 
   - Classroom Policy Notes: classroom.md
