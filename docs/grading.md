@@ -71,8 +71,8 @@ Grades will be based on performance in three areas:
 Area | Portion
 ------|------
 Labs | 30%
-Projects | 30%
-Online Discussion | 20%
+Midterm/Final Projects | 20%
+Online Discussion | 30%
 Participation	| 20%
 
 The grading scale is:
