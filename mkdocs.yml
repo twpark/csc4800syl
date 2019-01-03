@@ -7,9 +7,10 @@ markdown_extensions:
 
 pages:
   - Welcome: index.md
-  - Instructor Information and Contact: contact.md
-  - Course Description and Objectives: overview.md
-  - Textbook, Media, Resources: textbook.md
-  - Assignment and Grading Policies: grading.md 
+  - Instructor and Contact: contact.md
+  - Course Overview: overview.md
+  - \[Important\] Hybrid Class: hybrid.md
+  - Textbook and Resources: textbook.md
+  - Assignment and Grading: grading.md 
   - Attendence and Classroom Policies: classroom.md
   - CS/IS Learning Outcomes: outcomes.md
