@@ -1,0 +1,15 @@
+site_name: CSC 4800 Syllabus
+theme: readthedocs
+
+markdown_extensions:
+  - footnotes
+  - tables
+
+nav:
+  - Welcome: index.md
+  - Instructor Information and Contact: contact.md
+  - Overview: overview.md
+  - Textbook, Media, Resources: textbook.md
+  - Assignment and Grading Policies: grading.md 
+  - Classroom Policy Notes: classroom.md
+  - CS/IS Learning Outcomes: outcomes.md
