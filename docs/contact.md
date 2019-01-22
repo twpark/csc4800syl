@@ -1,6 +1,6 @@
 # Instructor Information
 * **Instructor**: Dr. Taiwoo Park
-* **Office**: OMH 244
+* **Office**: OMH 243
 
 # Class Announcements
 The primary medium of announcements will be [Canvas](https://canvas.spu.edu). Some time-critical announcements can be cross-posted on Slack or via e-mail. Make sure to subscribe canvas updates and check the canvas page in a regular basis.
